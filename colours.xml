@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Backgrounds (Google, 2023. Color Resources. Android Developers. Available at: https://developer.android.com/guide/topics/resources/color-list-resource [Accessed 30 March 2026]) -->
+    <color name="background">#F0F4FF</color>
+    <color name="white">#FFFFFF</color>
+    <!-- Header (Google, 2023. Color Resources. Android Developers. Available at: https://developer.android.com/guide/topics/resources/color-list-resource [Accessed 30 March 2026]) -->
+    <color name="headerCard">#6C63FF</color>
+    <color name="headerSubtitle">#C5C1FF</color>
+    <!-- Buttons (Google, 2023. Material Design Colour System. Android Developers. Available at: https://developer.android.com/develop/ui/views/theming/colors [Accessed 30 March 2026]) -->
+    <color name="primaryButton">#6C63FF</color>
+    <color name="resetButton">#E8E8F0</color>
+    <color name="resetText">#6C63FF</color>
+    <!-- Input (Google, 2023. Color Resources. Android Developers. Available at: https://developer.android.com/guide/topics/resources/color-list-resource [Accessed 30 March 2026]) -->
+    <color name="inputBackground">#F5F5FF</color>
+    <color name="inputBorder">#D0CCF7</color>
+    <color name="inputText">#2D2D44</color>
+    <color name="hintText">#A0A0C0</color>
+    <color name="labelText">#2D2D44</color>
+    <!-- Spark Card (Google, 2023. Color Resources. Android Developers. Available at: https://developer.android.com/guide/topics/resources/color-list-resource [Accessed 30 March 2026]) -->
+    <color name="sparkCard">#FFFDE7</color>
+    <color name="sparkLabel">#F57F17</color>
+    <color name="sparkText">#4A3800</color>
+    <color name="errorText">#C62828</color>
+    <!-- Footer (Google, 2023. Color Resources. Android Developers. Available at: https://developer.android.com/guide/topics/resources/color-list-resource [Accessed 30 March 2026]) -->
+    <color name="footerText">#9E9EC0</color>
+    <!-- System (Google, 2023. Material Design Colour System. Android Developers. Available at: https://developer.android.com/develop/ui/views/theming/colors [Accessed 30 March 2026]) -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+</resources>
