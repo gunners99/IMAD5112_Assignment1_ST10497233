@@ -1,12 +1,12 @@
-# ✨ Social Sparks
+# Social Sparks
 
-> Stay connected, one spark at a time 💫
+> Stay connected, one spark at a time 
 
 A native Android app built with Kotlin that helps Kora maintain meaningful social connections throughout her busy day. Based on the time of day entered, the app suggests a small, thoughtful social action — a **"spark"** — to keep her connected to family and friends.
 
 \---
 
-## 📱 Screenshots
+## Screenshots
 
 |Home Screen|Spark Result|Error State|
 |-|-|-|
@@ -14,7 +14,7 @@ A native Android app built with Kotlin that helps Kora maintain meaningful socia
 
 \---
 
-## 🚀 Features
+## Features
 
 * **Time-based suggestions** — six social sparks mapped to different parts of the day
 * **Friendly error handling** — motivating messages for invalid or empty input
@@ -24,7 +24,7 @@ A native Android app built with Kotlin that helps Kora maintain meaningful socia
 
 \---
 
-## 🕐 Social Spark Suggestions
+## Social Spark Suggestions
 
 |Time of Day|Emoji|Spark|
 |-|-|-|
@@ -37,7 +37,7 @@ A native Android app built with Kotlin that helps Kora maintain meaningful socia
 
 \---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 |Item|Detail|
 |-|-|
@@ -50,7 +50,7 @@ A native Android app built with Kotlin that helps Kora maintain meaningful socia
 
 \---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 SocialSparks/
@@ -77,7 +77,7 @@ SocialSparks/
 
 \---
 
-## ⚙️ Setup \& Installation
+## Setup \& Installation
 
 ### Prerequisites
 
@@ -105,7 +105,7 @@ SocialSparks/
 
 \---
 
-## 🐛 Common Issues
+## Common Issues
 
 |Issue|Fix|
 |-|-|
@@ -116,7 +116,7 @@ SocialSparks/
 
 \---
 
-## 🎨 Colour Palette
+## Colour Palette
 
 |Name|Hex|Used For|
 |-|-|-|
@@ -128,7 +128,7 @@ SocialSparks/
 
 \---
 
-## 📝 How to Add a New Spark
+## How to Add a New Spark
 
 Open `MainActivity.kt` and add a new branch inside the `when` expression in the `getSocialSpark()` function:
 
