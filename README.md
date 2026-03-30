@@ -141,3 +141,18 @@ normalised.contains("lunch") ->
 VIDEO DEMONSTRATION LINK
 https://youtu.be/\_XC6IxsLgok
 
+Reference List
+Android Developers (2024) Create and manage virtual devices. Available at: https://developer.android.com/studio/run/managing-avds (Accessed: 30 March 2026).
+Android Developers (2024) Material Design Components for Android. Available at: https://developer.android.com/develop/ui/views/theming/look-and-feel (Accessed: 30 March 2026).
+Android Developers (2024) Meet Android Studio. Available at: https://developer.android.com/studio/intro (Accessed: 30 March 2026).
+Android Developers (2024) ScrollView. Available at: https://developer.android.com/reference/android/widget/ScrollView (Accessed: 30 March 2026).
+Android Developers (2024) App manifest overview. Available at: https://developer.android.com/guide/topics/manifest/manifest-intro (Accessed: 30 March 2026).
+Android Developers (2024) Layouts. Available at: https://developer.android.com/develop/ui/views/layout/declaring-layout (Accessed: 30 March 2026).
+Android Developers (2024) Build a responsive UI with ConstraintLayout. Available at: https://developer.android.com/develop/ui/views/layout/constraint-layout (Accessed: 30 March 2026).
+Google LLC (2024) Material Components for Android on GitHub. Available at: https://github.com/material-components/material-components-android (Accessed: 30 March 2026).
+JetBrains (2024) Kotlin documentation: Control flow. Available at: https://kotlinlang.org/docs/control-flow.html (Accessed: 30 March 2026).
+JetBrains (2024) Kotlin documentation: Functions. Available at: https://kotlinlang.org/docs/functions.html (Accessed: 30 March 2026).
+JetBrains (2024) Kotlin for Android. Available at: https://developer.android.com/kotlin (Accessed: 30 March 2026).
+JetBrains (2024) Kotlin language reference. Available at: https://kotlinlang.org/docs/reference/ (Accessed: 30 March 2026).
+Oracle Corporation (2024) Java SE 17 documentation. Available at: https://docs.oracle.com/en/java/javase/17/ (Accessed: 30 March 2026).
+
